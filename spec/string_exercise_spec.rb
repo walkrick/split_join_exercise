@@ -35,4 +35,11 @@ describe 'string_exercise' do
     end
   end
 
+  describe "capitalize_every_third_word method" do
+    it "should return a string with every third word capitalized" do
+      expect(str_ex.capitalize_every_third_word).to eq("Once apon a Time there was A junior developer Who wrote great Code.")
+    end
+
+  end
+
 end
