@@ -2,8 +2,8 @@
 
 ## Instructions:
 
-* **Clone the Split_join_exercises repository to your computer**
+* **Fork and clone the Split_join_exercises. **
 * **Open the files with RubyMine**
-* **Run the rspec file: spec/string_exercises_spec.rb**
-* **Add methods to the file: lib/string_exercises.rb to get the rspec tests to pass**
+* **Run the program: ruby strings_warmup.rb**
+* **Add your code to the methods to get the tests to pass.**
 * **When all tests pass - you are done!**
